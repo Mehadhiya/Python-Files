@@ -1,0 +1,6 @@
+s =  input()
+check= False
+for s in s:
+    if s.isdigit():
+        check = True
+print(check)  
